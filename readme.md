@@ -17,5 +17,13 @@ and powerfull server. I gonna work on that one.
 Since now, there are still many project based on those out of date system, well... gonna catch those two up a little bit later.
 Yep, the clients are always the god. We gonna serve them well.
 
+## Tech Stack
+1. Levaral
+2. GitHub 
+3. AngularJS
+4. Bootstrap
+5. LESS/SASS
+6. Grunt
+
 ## Footer
 I haven't think of what gonna write about over here, but you can checkout my old work at http://weijinglin.name/tech/
