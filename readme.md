@@ -16,3 +16,6 @@ and powerfull server. I gonna work on that one.
 3. Wordpress and Drupal
 	Since now, there are still many project based on those out of date system, well... gonna catch those two up a little bit later.
 Yep, the clients are always the god. We gonna serve them well.
+
+## Footer
+    I haven't think of what gonna write about over here, but you can checkout my old work at http://weijinglin.name/tech/
