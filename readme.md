@@ -1,4 +1,4 @@
-#Tech
+# Tech
 
 Hi, again, it is me. Half year's ago, I wrote a page to list all silicon valley technolgies while I was looking for the job. 
 Yeah, I just out from my previous job and looking for new oppotunities right now, and there are a lot of changing over here.
