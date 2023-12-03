@@ -6,3 +6,4 @@ I might want to write a book about dev tech.
 
 * [html](./html)
 * [saas](./saas)
+* [stories](./stories)
