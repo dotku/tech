@@ -24,6 +24,3 @@ Yep, the clients are always the god. We gonna serve them well.
 4. Bootstrap
 5. LESS/SASS
 6. Grunt
-
-## Footer
-I haven't think of what gonna write about over here, but you can checkout my old work at http://weijinglin.name/tech/
