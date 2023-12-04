@@ -13,4 +13,4 @@ I might want to write a book about dev tech.
 
 ## Todos
 
-- [ ] I need find a blog system to deprecated Jekyll and ... there are just so many ...  
+- [ ] I need find a blog system to deprecated Jekyll and... there are just so many... :joy:
