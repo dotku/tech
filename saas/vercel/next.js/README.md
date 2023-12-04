@@ -7,5 +7,5 @@ client and server render for better SEO.
 I would try to keep up Next.js for my further projects and would try out developer friendly Vercel hosting plan 
 as well.
 
-Jay Lin
+Jay Lin  
 2023/12/04
