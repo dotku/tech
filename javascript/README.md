@@ -9,7 +9,9 @@ JavaScript 库都有这些（有时候实在分不清是 NodeJS 还是 JavaScrip
 
 ### 2023/12/04
 
-今天看到 [Chrome Extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/extensions-101) 竟然也是用 JavaScript 編寫的?!
+今天看到 [Chrome Extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/extensions-101) 竟然也是用 
+JavaScript 編寫的?!
+
 我真是孤陋寡聞了...
 
 ## 资源
