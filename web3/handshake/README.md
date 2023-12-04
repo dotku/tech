@@ -9,8 +9,10 @@ There are few ways you can access handshake domains, one easy way might be insta
 since handshake is just not industrial ready.
 
 For pre experience the current handshake domain community, I just registered a handshack domain
-[http://gh.ds](http://gh.ds) for github redirect purpose. If you want to visit the site, please
-make sure you installed figertip.
+[http://gh.ds](http://gh.ds) for github redirect purpose. However, it doesn't support HTTPS
+so far. I don't know how to setup yet.
+
+If you want to visit [gh.ds](http://gh.ds), please setup [figertip](https://impervious.com/fingertip).
 
 On the other hand related to the token world in ecent few month, it sounds like BTC is comming back. 
 Would BTC go up to 100k this time? We will it out soon!
