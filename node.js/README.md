@@ -4,7 +4,7 @@
 
 現在 Node 的周邊豐富了很多，版本管理方面採用 nvm，還可以通過 `nvm use` 來調用 repo 中的 node 
 版本的設置，還是很方便的。[官方還有提供自動切換 node 的腳本](https://github.com/nvm-sh/nvm#automatically-call-nvm-use)，
-不過倒是沒有人推出 install.sh 來添加這個腳本。
+不過倒是沒有人在安裝版本加入自動切換選項。大概是希望讓開發人員能夠意識到存在版本切換這個事情的關係吧。
 
 誰感興趣的，歡迎參與～
 
