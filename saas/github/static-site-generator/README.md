@@ -13,6 +13,9 @@ list:
 - Vuepress (September 5, 2019)  
   Vue based site generator.
 
+- docsifyjs (Jan 23, 2018)
+  This generator support github very well.
+
 - 11ty (Dec 4, 2017)  
   Said to be the official replacement of Jekyll.
 
