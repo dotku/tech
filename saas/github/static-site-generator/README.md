@@ -9,10 +9,8 @@ list:
 
 - Astro (2022)  
   This one looks nice.
-
 - Vuepress (September 5, 2019)  
   Vue based site generator.
-
 - 11ty (Dec 4, 2017)  
   Said to be the official replacement of Jekyll.
 
