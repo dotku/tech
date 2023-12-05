@@ -1,5 +1,11 @@
 # Node.js
 
+## 2023/12/05
+
+計畫用 NextJS + Tailwind CSS 製作一些項目，正好現在的項目越來越多了...
+
+https://mattermost.com/blog/create-a-next-js-blog-on-vercel-using-mdx-and-tailwindcss/
+
 ## 2023/12/03
 
 現在 Node 的周邊豐富了很多，版本管理方面採用 nvm，還可以通過 `nvm use` 來調用 repo 中的 node 
