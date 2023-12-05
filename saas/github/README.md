@@ -1,6 +1,6 @@
 # GitHub
 
-## Template Engine: Jeckyll
+## Static Site Generator: Jeckyll
 
 [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software)) is the default template engine on github, 
 even though the new project leader [Frank Taillandier](https://jekyllrb.com/news/2021/09/14/goodbye-dear-frank/)
