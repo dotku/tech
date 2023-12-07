@@ -25,3 +25,7 @@ I might want to write a book about dev tech.
 * [PayPal](https://py.pl/1yGy15)
 * [SoFi](https://www.sofi.com/invite/money?gcp=12b85f15-9dbd-4ce7-94ca-ae0ab8d80670&isAliasGcp=false)
 * [Remitly](https://remit.ly/3529op1z)
+
+## Hiring
+
+* [Meta](https://metacareers.com/jobs/750778856583126/?share_id=671762054829362)
