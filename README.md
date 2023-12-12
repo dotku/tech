@@ -4,12 +4,12 @@ I might want to write a book about dev tech.
 
 ## Index
 
-* [javascript](javascript)
-* [html](html)
-* [node.js](node.js)
-* [saas](saas)
-* [stories](stories)
-* [web3](web3)
+* [javascript](/tech/javascript)
+* [html](/tech/html)
+* [node.js](/tech/node.js)
+* [saas](/tech/saas)
+* [stories](/tech/stories)
+* [web3](/tech/web3)
 
 ## Todos
 
