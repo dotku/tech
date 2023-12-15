@@ -1,2 +1,7 @@
 * [Home](/)
 * [CRM](CRM.md "CRM | Customer Relationship Management")
+* [Supabase](/saas/Supabase/)
+* [AWS](/aws/)
+* [GitHub](/github/)
+* [Okta](/okta/)
+* [Vercel](/vercel/)
