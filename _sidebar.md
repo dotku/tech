@@ -1,3 +1,4 @@
+* [Home](/)
 * [javascript](/tech/javascript)
 * [html](/tech/html)
 * [node.js](/tech/node.js)
