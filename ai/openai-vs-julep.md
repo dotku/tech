@@ -4,7 +4,7 @@
 
 OpenAI is well known popular AI company, concidered as a flagship level in the industry.
 
-Julep is a small sartup with about 3 members in the team which partnered with one of my projects.
+Julep is a small sartup with about 5 members in the team which partnered with one of my projects.
 
 ## AI Models
 
