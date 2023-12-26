@@ -4,4 +4,5 @@
 * [AWS](/saas/aws/)
 * [GitHub](/saas/github/)
 * [Okta](/saas/okta/)
+* [OpenAI](/saas/openai/)
 * [Vercel](/saas/vercel/)
