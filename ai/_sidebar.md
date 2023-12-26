@@ -1,1 +1,1 @@
-[OpenAI VS Julep](/ai/openai-vs-julep.md)
+* [OpenAI VS Julep](/ai/openai-vs-julep.md)
