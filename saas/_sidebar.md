@@ -1,6 +1,6 @@
 * [Home](/)
 * [CRM](CRM.md "CRM | Customer Relationship Management")
-* [Liuyun](/saas/Liuyun/)
+* [Liuyun](/saas/liuyun/)
 * [Supabase](/saas/Supabase/)
 * [AWS](/saas/aws/)
 * [GitHub](/saas/github/)
