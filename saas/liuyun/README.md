@@ -6,13 +6,15 @@ Liuyun AI was established in early March 2023, focusing on providing artificial 
 
 ## Pricing
 
-| Request | Price | 
-| --- | --- | 
-| 600 | 29.8 RMB |
-| 4500 | 100 RMB |
-| 10,000 | 198 RMB |
-| 60,000 | 1088 RMB |
-| 10 | 0.01 RMB |
+| Request | Price (RMB) | Price (USD) |
+| --- | --- | --- |
+| 600 | 29.8 RMB | 4.62 USD |
+| 4500 | 100 RMB | 15.50 USD |
+| 10,000 | 198 RMB | 30.70 USD |
+| 60,000 | 1088 RMB | 168.79 USD |
+| 10 | 0.01 RMB | 0.0014 USD |
+
+** USD price might change according to currnt day.
 
 ## API Doc
 
