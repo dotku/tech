@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Liuyun AI was established in early March 2023, focusing on providing artificial intelligence application services to empower individuals and small and medium-sized businesses with digitalization services.
+Liuyun AI was established in early March 2023, focusing on providing artificial intelligence application services 
+to empower individuals and small and medium-sized businesses with digitalization services.
 
 ## Pricing
 
@@ -14,7 +15,7 @@ Liuyun AI was established in early March 2023, focusing on providing artificial 
 | 60,000 | 1088 RMB | 168.79 USD |
 | 10 | 0.01 RMB | 0.0014 USD |
 
-** USD price might change according accordingly.
+** USD price might change according accordingly based on most updated currency exchange rate.
 
 ## API Doc
 
