@@ -14,7 +14,7 @@ Liuyun AI was established in early March 2023, focusing on providing artificial 
 | 60,000 | 1088 RMB | 168.79 USD |
 | 10 | 0.01 RMB | 0.0014 USD |
 
-** USD price might change according to currnt day.
+** USD price might change according accordingly.
 
 ## API Doc
 
