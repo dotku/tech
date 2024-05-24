@@ -6,3 +6,9 @@ Software as a Service.
 
 * [github](./github)
 * [Web Editor](./web-editor)
+
+## Content
+
+| Service Name | Region |
+| --- | --- |
+| GitBook | EU/UK |
